@@ -11,10 +11,14 @@
             "id": "80671ba22e6a7740",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/2. JS Features.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2. JS Features"
             }
           }
         ]
