@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/2. JS Features.md",
+                "file": "Notes/3. First Program.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. JS Features"
+              "title": "3. First Program"
             }
           }
         ]
@@ -179,10 +179,16 @@
   },
   "active": "80671ba22e6a7740",
   "lastOpenFiles": [
+    "Program Examples/first-program.md",
+    "Notes/3. First Program.md",
+    "Notes/2. JS Features.md",
+    "Program Examples/first-program/main.js",
+    "Program Examples/first-program/script.js",
+    "Program Examples/first-program/index.html",
+    "Program Examples/first-program",
     "README.md",
     "Program Examples",
     "programs",
-    "Notes/2. JS Features.md",
     "Notes/1. Introduction.md",
     "Notes",
     "2.1 Tokio/5. I O.md",
@@ -218,12 +224,7 @@
     "public/Screenshot 2025-07-30 at 10.14.08 PM.png",
     "public/Screenshot 2025-07-30 at 10.12.04 PM.png",
     "2.1 Tokio/Trait Wake.md",
-    "2.0 Excalidraw",
     "2.1 Tokio/Trait Future.md",
-    "2.1 Tokio/RawWaker.md",
-    "1. Core Rust",
-    "public",
-    "2.1 Tokio",
     "Untitled.canvas"
   ]
 }
